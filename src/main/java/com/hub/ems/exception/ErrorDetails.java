@@ -2,6 +2,11 @@ package com.hub.ems.exception;
 
 import java.util.Date;
 
+/**
+ * 
+ * @author Mars
+ *
+ */
 public class ErrorDetails {
 	private Date timestamp;
     private String message;
